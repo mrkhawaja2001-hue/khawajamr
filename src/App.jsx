@@ -247,7 +247,7 @@ function About() {
             <img src="/about.webp" alt="Khawaja MR" className="about__photo" />
             <div className="about__photo-footer">
               <img src="/sign.png" alt="sig" className="about__sig" />
-              <span>Media Specialist - Katana Agency</span>
+              <span>Media Specialist</span>
             </div>
           </div>
           <div className="sw-box">
