@@ -69,7 +69,7 @@ export const data = {
       role: "Media Producer",
       company: "Katana Agency",
       period: "Mar 2026 – Oct 2026",
-      current: true,
+      current: false,
       highlights: [
         "Lead end-to-end media production workflows, managing projects from ideation and scripting to shooting, editing, and final delivery across digital platforms.",
         "Produce and edit creative social media content, including short-form reels designed to enhance audience engagement and align with brand objectives.",
